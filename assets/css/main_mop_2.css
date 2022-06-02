@@ -2,18 +2,42 @@
 .overview-con {
   width: 100%;
 }
-.overview-con .f12 {font-size: 0.046875rem;}
-.overview-con .f14 {font-size: 0.054688rem;}
-.overview-con .f16 {font-size: 0.0625rem;}
-.overview-con .f18 {font-size: 0.070313rem;}
-.overview-con .f20 {font-size: 0.078125rem;}
-.overview-con .f22 {font-size: 0.085938rem;}
-.overview-con .f24 {font-size: 0.09375rem;}
-.overview-con .f26 {font-size: 0.101563rem;}
-.overview-con .f28 {font-size: 0.109375rem;}
-.overview-con .f30 {font-size: 0.117188rem;}
-.overview-con .f32 {font-size: 0.125rem;}
-.overview-con .f34 {font-size: 0.132813rem;}
+.overview-con .f12 {
+  font-size: 0.046875rem;
+}
+.overview-con .f14 {
+  font-size: 0.054688rem;
+}
+.overview-con .f16 {
+  font-size: 0.0625rem;
+}
+.overview-con .f18 {
+  font-size: 0.070313rem;
+}
+.overview-con .f20 {
+  font-size: 0.078125rem;
+}
+.overview-con .f22 {
+  font-size: 0.085938rem;
+}
+.overview-con .f24 {
+  font-size: 0.09375rem;
+}
+.overview-con .f26 {
+  font-size: 0.101563rem;
+}
+.overview-con .f28 {
+  font-size: 0.109375rem;
+}
+.overview-con .f30 {
+  font-size: 0.117188rem;
+}
+.overview-con .f32 {
+  font-size: 0.125rem;
+}
+.overview-con .f34 {
+  font-size: 0.132813rem;
+}
 .overview-con .f36 {
   font-size: 0.140625rem;
 }
